@@ -12,7 +12,6 @@
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.webp" width="100">
 </p>
 <br>
 <br>
